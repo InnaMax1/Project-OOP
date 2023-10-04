@@ -1,5 +1,5 @@
 ﻿// Project Application
-// Written by: Inna Maximova 1331169, Anita Torki 2211985
+// Written by: Inna Maximova 1331169
 
     //Part B
     class Program
