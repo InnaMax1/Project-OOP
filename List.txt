@@ -1,0 +1,6 @@
+Computer number 1 has: 
+Brand - Apple
+Model -  qwa1
+Serial Number -  12345
+Price - 1200
+

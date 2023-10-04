@@ -1,0 +1,44 @@
+D:\College Lasalle\Session-2\Session 2\C#\Project\bin\Debug\net6.0\Project.exe
+D:\College Lasalle\Session-2\Session 2\C#\Project\bin\Debug\net6.0\Project.deps.json
+D:\College Lasalle\Session-2\Session 2\C#\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\College Lasalle\Session-2\Session 2\C#\Project\bin\Debug\net6.0\Project.dll
+D:\College Lasalle\Session-2\Session 2\C#\Project\bin\Debug\net6.0\Project.pdb
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.dll
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\refint\Project.dll
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.pdb
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\College Lasalle\Session-2\Session 2\C#\Project\obj\Debug\net6.0\ref\Project.dll
+D:\Session 2\C#\Project\bin\Debug\net6.0\Project.exe
+D:\Session 2\C#\Project\bin\Debug\net6.0\Project.deps.json
+D:\Session 2\C#\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\Session 2\C#\Project\bin\Debug\net6.0\Project.dll
+D:\Session 2\C#\Project\bin\Debug\net6.0\Project.pdb
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.dll
+D:\Session 2\C#\Project\obj\Debug\net6.0\refint\Project.dll
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.pdb
+D:\Session 2\C#\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\Session 2\C#\Project\obj\Debug\net6.0\ref\Project.dll
+E:\Session 4\Internship\Projects\Project\bin\Debug\net6.0\Project.exe
+E:\Session 4\Internship\Projects\Project\bin\Debug\net6.0\Project.deps.json
+E:\Session 4\Internship\Projects\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+E:\Session 4\Internship\Projects\Project\bin\Debug\net6.0\Project.dll
+E:\Session 4\Internship\Projects\Project\bin\Debug\net6.0\Project.pdb
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.dll
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\refint\Project.dll
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.pdb
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+E:\Session 4\Internship\Projects\Project\obj\Debug\net6.0\ref\Project.dll
